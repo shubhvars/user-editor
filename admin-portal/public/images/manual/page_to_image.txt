@@ -1,0 +1,221 @@
+PAGE TO IMAGE MAPPING
+==================================================
+
+
+--- PAGE 5 ---
+  page05_img1.png (669x844)
+
+--- PAGE 6 ---
+  page06_img1.png (918x576)
+
+--- PAGE 7 ---
+  page07_img1.png (593x523)
+
+--- PAGE 8 ---
+  page08_img1.png (237x257)
+  page08_img2.png (332x327)
+
+--- PAGE 9 ---
+  page09_img1.png (1239x948)
+
+--- PAGE 10 ---
+  page10_img1.png (1344x841)
+  page10_img2.png (606x376)
+
+--- PAGE 11 ---
+  page11_img1.png (1478x833)
+
+--- PAGE 12 ---
+  page12_img1.png (1358x723)
+
+--- PAGE 13 ---
+  page13_img1.png (1314x497)
+
+--- PAGE 14 ---
+  page14_img1.png (444x944)
+  page14_img2.png (419x164)
+  page14_img3.png (1385x437)
+
+--- PAGE 16 ---
+  page16_img1.png (1329x762)
+
+--- PAGE 17 ---
+  page17_img1.png (386x555)
+
+--- PAGE 18 ---
+  page18_img1.png (514x423)
+  page18_img2.png (1497x413)
+
+--- PAGE 20 ---
+  page20_img1.png (559x663)
+
+--- PAGE 21 ---
+  page21_img1.png (332x252)
+  page21_img2.png (1468x374)
+
+--- PAGE 22 ---
+  page22_img1.png (571x326)
+
+--- PAGE 23 ---
+  page23_img1.png (1218x771)
+
+--- PAGE 26 ---
+  page26_img1.png (1253x566)
+
+--- PAGE 27 ---
+  page27_img1.jpeg (987x515)
+  page27_img2.png (1342x642)
+
+--- PAGE 28 ---
+  page28_img1.png (973x269)
+
+--- PAGE 29 ---
+  page29_img1.png (1247x536)
+  page29_img2.png (1144x448)
+
+--- PAGE 30 ---
+  page30_img1.png (695x765)
+  page30_img2.png (811x419)
+
+--- PAGE 31 ---
+  page31_img1.png (751x394)
+  page31_img2.png (956x353)
+
+--- PAGE 32 ---
+  page32_img1.png (1514x754)
+  page32_img2.png (1522x535)
+  page32_img3.png (1518x416)
+
+--- PAGE 33 ---
+  page33_img1.png (1269x525)
+
+--- PAGE 34 ---
+  page34_img1.jpeg (976x767)
+  page34_img2.png (1004x474)
+
+--- PAGE 35 ---
+  page35_img1.png (1376x459)
+  page35_img2.png (1599x638)
+
+--- PAGE 36 ---
+  page36_img1.png (595x448)
+
+--- PAGE 38 ---
+  page38_img1.png (1228x814)
+
+--- PAGE 39 ---
+  page39_img1.jpeg (462x364)
+  page39_img2.png (1097x540)
+
+--- PAGE 40 ---
+  page40_img1.png (965x177)
+  page40_img2.png (1568x831)
+
+--- PAGE 41 ---
+  page41_img1.png (404x458)
+
+--- PAGE 43 ---
+  page43_img1.png (1384x802)
+
+--- PAGE 44 ---
+  page44_img1.png (831x866)
+
+--- PAGE 45 ---
+  page45_img1.png (877x720)
+
+--- PAGE 46 ---
+  page46_img1.png (1432x660)
+  page46_img2.png (1706x849)
+
+--- PAGE 47 ---
+  page47_img1.png (644x447)
+  page47_img2.png (1393x818)
+
+--- PAGE 48 ---
+  page48_img1.png (1355x690)
+  page48_img2.jpeg (1242x684)
+
+--- PAGE 49 ---
+  page49_img1.png (1364x641)
+  page49_img2.png (1364x641)
+
+--- PAGE 50 ---
+  page50_img1.png (891x647)
+  page50_img2.png (923x467)
+
+--- PAGE 52 ---
+  page52_img1.png (1255x790)
+
+--- PAGE 53 ---
+  page53_img1.png (1339x864)
+
+--- PAGE 54 ---
+  page54_img1.png (540x359)
+
+--- PAGE 55 ---
+  page55_img1.png (1197x435)
+
+--- PAGE 56 ---
+  page56_img1.png (510x612)
+
+--- PAGE 57 ---
+  page57_img1.png (563x876)
+
+--- PAGE 58 ---
+  page58_img1.png (957x545)
+  page58_img2.png (1337x499)
+
+--- PAGE 59 ---
+  page59_img1.png (866x472)
+
+--- PAGE 60 ---
+  page60_img1.png (1287x844)
+
+--- PAGE 61 ---
+  page61_img1.png (626x718)
+
+--- PAGE 62 ---
+  page62_img1.png (539x372)
+  page62_img2.png (1232x809)
+
+--- PAGE 63 ---
+  page63_img1.png (1237x867)
+
+--- PAGE 65 ---
+  page65_img1.png (494x305)
+  page65_img2.png (1275x847)
+
+--- PAGE 66 ---
+  page66_img1.png (1266x823)
+
+--- PAGE 67 ---
+  page67_img1.png (1286x492)
+
+--- PAGE 68 ---
+  page68_img1.png (418x315)
+  page68_img2.png (782x674)
+
+--- PAGE 69 ---
+  page69_img1.png (757x807)
+
+--- PAGE 70 ---
+  page70_img1.png (1319x503)
+
+--- PAGE 71 ---
+  page71_img1.png (711x809)
+
+--- PAGE 73 ---
+  page73_img1.png (1272x478)
+
+--- PAGE 74 ---
+  page74_img1.png (1326x527)
+
+--- PAGE 75 ---
+  page75_img1.png (885x872)
+
+--- PAGE 76 ---
+  page76_img1.png (923x892)
+
+--- PAGE 78 ---
+  page78_img1.png (1407x417)
+  page78_img2.png (1320x354)

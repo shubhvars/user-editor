@@ -1,0 +1,91 @@
+.content-editor-page {
+    padding-bottom: 2rem;
+}
+
+.editor-layout {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 1.5rem;
+}
+
+@media (max-width: 1024px) {
+    .editor-layout {
+        grid-template-columns: 1fr;
+    }
+}
+
+.editor-main {
+    min-width: 0;
+}
+
+.editor-sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.sidebar-card .card-header {
+    padding: 1rem;
+}
+
+.sidebar-card .card-header h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.sidebar-card .card-body {
+    padding: 1rem;
+}
+
+.btn-block {
+    width: 100%;
+    justify-content: center;
+}
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    cursor: pointer;
+    font-weight: 400;
+    color: var(--text-primary);
+}
+
+.checkbox-label input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: var(--primary);
+    cursor: pointer;
+}
+
+.preview-section {
+    margin-top: 2rem;
+}
+
+.preview-panel {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+}
+
+.preview-header {
+    padding: 0.75rem 1rem;
+    background: var(--bg-input);
+    border-bottom: 1px solid var(--border);
+    font-weight: 500;
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+}
+
+.preview-content {
+    padding: 2rem;
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.preview-content h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+}

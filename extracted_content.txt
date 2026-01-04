@@ -1,0 +1,1285 @@
+
+--- PAGE 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+A  
+User Manual  
+Guide  
+for  
+ERPICA  
+ 
+ 
+ 
+ 
+--- PAGE 2 ---
+ 
+ 
+ 
+Index  
+1. ERPICA  
+2. HRMS  
+a. Features of HRMS  
+3. Creating a New Account on ERPICA  
+4. Login  
+a. Owner  
+b. Admin  
+c. Employee  
+5. Config Setting  
+a. Manage Subscription  
+b. Company Settings  
+c. Update Password  
+d. Company Policies  
+e. Company Notices  
+f. Departments  
+6. Department  
+a. Adding Departments  
+b.  Assigning Departments to an Employee  
+7. Plant  
+a. Plant Creation  
+b. Assigning Plant according to Departments  
+8. Creating a new employee in ERPICA  
+a. Steps for Creating a new employee  
+b. Bulk Employee Creation  
+c. Add Permission  
+d. Employee Information  
+e. Permission Setting  
+9. Assets  
+a. Dashboard  
+b. Assets Type  
+c. Bunk Uploads  
+d. Add Asset  
+e. Tickets  
+10. Attendance  
+--- PAGE 3 ---
+ 
+ 
+a. Dashboard  
+b. Mark Attendance  
+c. Holidays  
+d. Attendance Rules  
+e. Attendance Policy  
+f. Approvals  
+11. Expenses  
+a. Dashboard  
+b. Expense Policy  
+c. Add Expenses  
+d. Wallet Management  
+e. Employee Expense Summary  
+f. Activity Tracker  
+12. Leave Management  
+a. Leave Balance  
+b. Leave Requests  
+c. Leave Policy  
+d. Activity Tracker  
+13. Task Manager  
+a. Dashboard  
+14. Payroll  
+a. Dashboard  
+b. Define Batches  
+c. Run Payroll  
+d. Payroll Summary  
+e. Allowances  
+f. Deductions  
+g. Settings  
+Note: Activity Tracker: Attendance, Leave, Asset, Expenses, Task Manager  
+ 
+ 
+ 
+ 
+--- PAGE 4 ---
+ 
+ 
+1. What is ERPICA?  
+ 
+ERPICA enables organizations to manage their HR and project operations 
+through a unified platform. It supports the complete employee lifecycle from 
+onboarding to retirement or resignation and includes robust features for asset 
+management, payroll, attendan ce and other essential administrative 
+processes.  
+ 
+ 
+2. What is HRMS?  
+A Human Resource Management System is a software solution that helps 
+organizations manage and automate their HR processes. It brings all HR 
+functions into one digital platform so companies can handle employee 
+information, workflows and administrative tasks  more efficiently.  
+➢ Key features of HRMS:  
+● Employee records  
+● Onboarding and offboarding  
+● Attendance and leave tracking  
+● Payroll processing  
+● Performance management  
+● Asset tracking  
+● Expenses Tracking  
+● Recruitment support  
+● Reports and analytics  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 5 ---
+ 
+ 
+3. How to create an account for a company?  
+ 
+      Registration Steps  
+1. Open the Sign Up  page: Create New Account  
+2. Fill in all required details as shown in the screenshot (company email, 
+password, company info, address, contact, and currency).  
+3. Review the information and click Sign Up to complete registration.  
+ 
+
+--- PAGE 6 ---
+ 
+ 
+Email Verification & Account Activation  
+Once you sign up, a verification link will be sent to your email. Open it, verify 
+your account and then proceed to complete your company details.  
+ 
+ 
+ 
+Sign In to Your Account  
+After your account is verified, return to the portal and sign in using your 
+registered email address and password to access and manage your company 
+details.  
+ 
+ 
+
+--- PAGE 7 ---
+ 
+ 
+ 
+ 
+Roles in ERPICA  
+Owner  
+The Owner is the person who creates the company account in ERPICA for the first 
+time. Only the Owner can purchase a subscription and has full control over the 
+system. The Owner can assign Admins to manage employees, assets,Business 
+Locations, and other com pany operations.  
+ 
+ 
+ 
+
+--- PAGE 8 ---
+ 
+ 
+Admin  
+An Admin  is appointed by the Owner. Admins have full operational control similar 
+to the Owner , including managing employees,business locations, assets, and 
+departments. However, subscription purchase and management are exclusively 
+handled by the Owner . 
+Employee  
+An Employee is a member of the organization working in an official role. Employees 
+can access ERPICA based on the permissions given to them. They can view their 
+tasks, attendance, leave details, payroll information, and other features allowed by 
+the Owner or Admin.  
+ 
+Set Up Your Account  
+ 
+ 
+ 
+ERPICA offers dedicated dashboards to simplify both employee and organizational 
+management. The HRMS Dashboard  helps manage employee -related activities like 
+attendance, business location assignments, and daily work operations. The Config 
+Settings Dashboard  is used to set up and manage company structure, core details, 
+business locations creation, and high -level system settings.  
+
+--- PAGE 9 ---
+ 
+ 
+From the Config Settings page, you can manage all essential company setup as 
+follow : - 
+Manage Subscription  
+Manage Subscription  page where users can view their current subscription and 
+plans, upgrade or downgrade plans, access billing details, and use a pricing calculator 
+to estimate subscription costs.  
+ 
+
+--- PAGE 10 ---
+ 
+ 
+a. Company Setting
+Fill in all details as shown in the screenshot for the future uses.  
+ 
+b. Update Password  
+ 
+You can update your password by entering your current password and 
+setting a new password from the company settings page.  
+
+--- PAGE 11 ---
+ 
+ 
+c. Company Policies  
+All company related policies such as HR guidelines, leave policies and 
+other organizational rules can be published or unpublished from this 
+section. Once published, these policies become visible to all employees, 
+allowing them to stay updated with the late st company regulations. If 
+any policy needs revision or temporary removal, the admin can simply 
+unpublish it until the updated version is ready. This ensures that 
+employees always have access to accurate and up to date information 
+regarding company proced ures and expectations.  
+ 
+Fill the details of policy along with the document as given in the 
+ScreenShot above.  
+d. Company Notices  
+ 
+Company notices are official messages shared by the organization to 
+inform employees about important updates, announcements, or 
+instructions.  
+ 
+Common examples of company notices  
+○ Company holidays and office closures  
+
+--- PAGE 12 ---
+ 
+ 
+○ Policy updates or changes  
+○ New joining announcements  
+○ Internal transfers or promotions  
+○ Maintenance or system downtime alerts  
+○ Compliance or safety instructions  
+○ Office events, trainings, or town halls  
+ 
+Company Notices are posted by the Owner or Admin and are visible to 
+employees after login.  
+Fill the details of notice along with the document as given in the 
+ScreenShot above.  
+ 
+e. Departments  
+We can also add or remove different departments within a single 
+organization. These may include Accounts, HR, Service, Operations, 
+Engineers, and Sales, along with any other departments the company 
+requires. This flexibility allows the organization to stru cture teams 
+clearly and manage workflows more efficiently.  
+
+--- PAGE 13 ---
+ 
+ 
+ 
+ 
+From this page, you can create departments, assign them to specific business 
+locations, and view all departments mapped to each location.  
+ 
+ 
+4. Business Locations  
+In ERPICA, a Business Location  refers to a specific work location, unit, or assignment 
+within a company. It can be a physical site, department, client project, or any 
+designated place where employees are deployed. Business Locations help 
+organizations track employee allocation, attenda nce, tasks, and performance based 
+on where employees are assigned.  
+A Business Location can be a manufacturing unit, production site, warehouse, service 
+center, office branch, or any single premises where business operations take place.  
+How can an Owner create a Business Location?  
+The Owner  can create a Business Location by entering the required location details 
+along with the Owner’s email address in the form and submitting it. Once submitted, 
+the registration process is completed and the Business Location is created.  
+ 
+
+--- PAGE 14 ---
+ 
+ 
+ 
+Check created Business Locations  
+Once created, the Business Locations will appear in the dashboard for 
+management and assignment.  
+ 
+ 
+ 
+
+--- PAGE 15 ---
+ 
+ 
+ 
+ 
+5. Department  
+ 
+In a company, a department is a specific group or unit that handles a 
+particular function or area of work. Each department has its own 
+responsibilities, goals, and expertise, but all departments work together to run 
+the company smoothly.  
+Examples of common departments:  
+● Human Resources – hiring, payroll, employee policies, performance 
+management  
+● Accounts – budgeting, payments, salaries, financial reporting  
+● Sales – selling products or services, client acquisition  
+● Business Development – branding, promotions, social media, 
+campaigns  
+● Operations – day-to-day business activities  
+● IT / Tech – systems, software, data, and tech support  
+● Admin – office management, documentation, coordination  
+● Service - Engineers & Project Manager  
+ 
+a. How to Add Departments?  
+        
+1. Visit Department Tab in Config Setting Dashboard  
+2. Click on Add New Department.  
+3. Mention the department code and department name.  
+4. Then click Submit . 
+--- PAGE 16 ---
+ 
+ 
+5. After submission, it will appear like this:
+ 
+
+--- PAGE 17 ---
+ 
+ 
+ 
+ 
+ 
+b. How to Assign Departments in Business Locations?  
+Click on the Assign Department  
+Pop Up will appear  
+You can select a Business Location & the department to assign 
+
+--- PAGE 18 ---
+ 
+ 
+ 
+ 
+You can view assigned departments business -location wise  by clicking 
+on View Assigned Department . 
+ 
+6. Creating an employee in ERPICA  
+Employees can be created by the Owner, Admin, or any authorized employee 
+who has permission to create employees, using the Employee tab in the HRMS 
+Dashboard.  
+ 
+
+--- PAGE 19 ---
+ 
+ 
+a. Steps for Creating a new employee:  
+i. Go to HRMS → Employee from the left menu.  
+ii. Click the + Add Employee button on the top right.  
+iii. The Add New Employee popup will open. Fill in the details:  
+➔ Name: Enter the employee’s full name  
+➔ Employee Code: Add a unique employee ID  
+➔ Business Location: Select the business location 
+where the employee is assigned  
+➔ Mobile: Enter a valid mobile number  
+➔ Email: Enter the official email ID  
+➔ Password: Set a login password for the employee  
+iv. Once all mandatory fields are filled, click Submit.  
+v. The employee account is created and will appear in the 
+employee list.  
+vi. Email will be sent to the registered Employee email Id.  
+--- PAGE 20 ---
+ 
+ 
+ 
+ 
+b. Bulk Employee Creation  
+
+--- PAGE 21 ---
+ 
+ 
+ 
+ERPICA also provides a Bulk Employee Upload option, which allows you 
+to upload large amounts of employee data at once.  
+ 
+ 
+For bulk upload, download the template and fill in the required details 
+in the Excel sheet.  
+
+--- PAGE 22 ---
+ 
+ 
+ 
+Once an employee is assigned to a business location, they can continue 
+working under that specific business location. However, if their role or 
+business locations requirement changes, they can easily be transferred 
+to another business location as needed. T his ensures smooth workflow 
+management and flexibility for companies handling multiple business 
+locations .  
+c. Employee Details  
+From the Employee tab, you can view registered employees business -
+location wise and check detailed employee information by clicking the 
+View icon in the Action column.  
+
+--- PAGE 23 ---
+ 
+ 
+ 
+Employee Details includes these:  
+○ Employee Information  
+■ Address Information  
+○ Emergency Contact Details  
+○ Education Details  
+○ Experience Details  
+○ Bank Details  
+○ Aadhar and PAN Details  
+○ Update Password  
+○ Transfer Employee  
+○ Add Permissions  
+Employee Information  
+On the Employee Information page, add and manage employee details as shown in 
+the screenshot. This page allows you to:  
+ 
+  Employee Management Actions  
+
+--- PAGE 24 ---
+ 
+ 
+ 
+Assign Supervisor  
+Change Role  
+Assign Department  
+All changes made here help ensure proper reporting structure, access control, and 
+accurate employee assignment within the organization.  
+Address Information  
+Add the permanent and present address details as shown in the screenshot. The 
+system also allows you to track changes in the present address whenever it is 
+updated.  
+ 
+Emergency Contact Details  
+Fill in the required emergency contact information and click Update to save the 
+details.  
+ 
+Education Details  
+Add employee education details sequence -wise , along with uploading the required 
+supporting documents , and save the information for record verification.  
+ 
+Experience Details  
+Add experience details sequence -wise , along with uploading the required supporting 
+documents , and save the information for record verification.  
+ 
+Bank Details  
+Add and update employee bank account information for salary and payment 
+processing.  
+ 
+ 
+ 
+--- PAGE 25 ---
+ 
+ 
+ Aadhaar & PAN Details  
+Enter and manage Aadhaar and PAN information along with the required documents 
+for verification.  
+ 
+Update Password  
+Update the Employee account password by providing the new password and confirm 
+the new password.  
+ 
+Transfer Employee  
+ 
+This feature allows users to transfer employees business -location wise and 
+department wise within the organization. Employees can be moved to another 
+department or reassigned within the current business location.  
+During the transfer, you can choose to transfer the employee with full permissions 
+and data or without them, based on operational requirements.  
+ 
+Add Permissions  
+ 
+From Add Permissions, you can assign employee access module -wise such as 
+Attendance, Leave, Expenses, and more.  
+You need to select the Business Location and then define which features the 
+employee can access. For each feature, permissions can be set as Read Only or Read 
+& Write, based on the employee’s role and responsibility.  
+ 
+Steps to Add Permissions  
+Simply click on the required feature , select the Business Location(s)  where access 
+should be given, and choose the permission level — Read  or Read & Write . 
+ 
+ 
+ 
+ 
+--- PAGE 26 ---
+ 
+ 
+ 
+ 
+ 
+7. Assets  
+Assets are items owned by a company that have value and are used for 
+business operations.  
+Common examples of assets:  
+● Computer/ Laptop/Monitors with accessories, Mobile phones, Vehicles  
+● Computer Software, including Virus protection  
+● Labeling equipment  
+● Copier, Printer, Scanner  
+● Telephone  
+● Internet  
+● Projector  
+● Tools and devices  
+● Stamps and Postage  
+● Office furniture etc.  
+
+--- PAGE 27 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ The table displays details such as asset information, status, request date, 
+reason and available actions.  
+Assets are tracked so the company knows:  
+● Who is using which asset  
+● Where the asset is assigned  
+● Asset condition and status  
+
+--- PAGE 28 ---
+ 
+ 
+● Return or transfer history  
+ 
+This section gives you a quick snapshot of all company assets. You can 
+instantly see how many assets are assigned, available, expired, under 
+maintenance or disposed. You can also search for any asset, filter by asset 
+type, refresh the list or export the da ta whenever needed. It helps you keep 
+track of everything in one place with complete clarity.  
+a. Dashboard:  
+This section gives you a quick snapshot of all company assets. You can 
+instantly see how many assets are assigned, available, expired, under 
+maintenance or disposed. You can also search for any asset, filter by 
+asset type, refresh the list or export the da ta whenever needed. It helps 
+
+--- PAGE 29 ---
+ 
+ 
+you keep track of everything in one place with complete clarity.
+ 
+Editing the Assets details:  
+These options are available for the owner to set the current status of the 
+asset.  
+
+--- PAGE 30 ---
+ 
+ 
+ 
+ 
+
+--- PAGE 31 ---
+ 
+ 
+● Once you have already assigned an asset to an employee, you cannot 
+reassign it to someone else until it is officially transferred from the 
+current holder.  
+● If you unassign an asset from an employee, make sure to mention the 
+previous return date or the date on which the employee was supposed 
+to return it.  
+ 
+● For any other actions such as assigning, unassigning, putting an asset 
+under maintenance, repairing it, transferring it, or marking it as expired 
+(as shown in the image), you must provide the relevant dates . This 
+includes dates for maintenance, repairs, returns, transfers, or any 
+status changes.  
+ 
+
+--- PAGE 32 ---
+ 
+ 
+The status of any asset can be viewed based on its complete history, including 
+assigning, transferring, repairing, or any other updates made to it.  
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 33 ---
+ 
+ 
+b. Asset Type:  
+Mention the type of assets you have (whether it is a 
+software/equipment/any device)  
+ 
+For adding any assets to the company, mention the purchase date, 
+expiry date and return date. You can also mention its company serial 
+number and the unique serial number of the asset.  
+c. Bunk Uploads  
+ 
+d. Add Asset  
+
+--- PAGE 34 ---
+ 
+ 
+ 
+ 
+In the Description & Review Sections, you can mention any notes or 
+additional details.  
+e. Tickets  
+
+--- PAGE 35 ---
+ 
+ 
+ 
+This section shows all asset transfer requests for the selected plant. 
+You can view the number of pending, completed, rejected and total 
+requests. If there are no transfer requests, the table will show a 
+message accordingly.  
+8. Attendance  
+a. Dashboard  
+The Attendance dashboard gives you a quick and clear view of who is 
+present, pending for approval and who hasn’t marked their attendance 
+yet. The owner/Admin can simply select the plant, choose the date and 
+refresh the data anytime. All employee attendance  details like 
+approver, status and time appear in one place, making it super easy to 
+track daily attendance without any confusion. It’s designed to help the 
+owner/Admin monitor everything smoothly and keep the workflow on 
+point.  
+
+--- PAGE 36 ---
+ 
+ 
+b. Mark Attendance  
+ 
+To mark attendance, the employee needs to follow the rules set by the 
+owner. If location based marking is enabled, the employee must be 
+within the assigned radius to check in or check out.  
+If the owner has enabled the camera requirement, the employee will 
+need to open the camera before submitting attendance. The system 
+will automatically capture the employee’s current location, time and 
+photo through the device’s camera to ensure everything matches the 
+company’s attendance rules.  
+c. Holidays  
+ Company holidays are days when the office is closed and employees 
+are not required to work. Company holidays are officially approved 
+non-working days declared by the organization for all or specific 
+employees. These are used for attendance and leave calcu lations which 
+helps avoid marking employees absent on official off days.  
+Common types of company holidays are  
+● National holidays (like Republic Day, Independence Day)  
+
+--- PAGE 37 ---
+ 
+ 
+● Festival holidays (Diwali, Holi, Eid, etc.)  
+● Company -declared holidays  
+● Regional or state -specific holidays  
+ 
+d. Attendance Rules  
+It refers to the Individual Rule. These rules can be set separately for 
+each employee based on their shift, timing or unique requirements.  
+e. Attendance Policy  
+Attendance Policy is a one time policy that applies to everyone in the 
+company. It sets the common guidelines that all employees will follow.  
+This section lets you set up  Employee Attendance Rule s for each 
+individual team member. You can select an employee from the 
+dropdown and customize how their attendance should work.  
+Owner can control settings like:  
+● Location Based: Attendance can only be marked when the 
+employee is within the assigned location.  
+● Approval Required: If turned on, their attendance will need 
+approval from a manager.  
+● Enable Marking: Allows the employee to mark their attendance 
+for the day.  
+● Photo Capture Required: Makes it compulsory for the employee 
+to click a photo while marking attendance.  
+● Select Location on Map: When location based is active, you can 
+set the exact location where attendance is allowed.  
+--- PAGE 38 ---
+ 
+ 
+ 
+The owner can set or adjust the employee’s marking location by 
+increasing or reducing the allowed marking distance. The system tracks 
+the employee’s attendance based on this radius. If the employee marks 
+their attendance outside the defined area, it will b e counted as not 
+okay. The system automatically detects whether the employee is within 
+the approved radius at the time of marking.  
+
+--- PAGE 39 ---
+ 
+ 
+ 
+ 
+The admin can set customized working hours and location rules for 
+each individual employee. This includes defining the employee’s daily 
+working time, selecting weekly off days, and assigning specific remote 
+working days if needed. These personalized settin gs help ensure 
+accurate tracking and flexible scheduling for every em ployee.  
+
+--- PAGE 40 ---
+ 
+ 
+ 
+The owner has full authority to update or modify the attendance policy 
+whenever required, ensuring the rules stay aligned with the company’s 
+operational needs.  
+f. Approvals  
+The owner also has the authority to mark an employee’s attendance in 
+case the employee forgets to check in. When the owner marks it 
+manually, there is no need for any photo or camera verification. The 
+owner can simply update the attendance directly without  any 
+additional requirements.  
+ 
+ 
+9. Expenses  
+Company expenses are costs incurred by employees or the organization 
+while carrying out its business operations.  
+
+--- PAGE 41 ---
+ 
+ 
+Common examples of company expenses  
+○ Travel and conveyance  
+○ Food and accommodation during official travel  
+○ Office rent and utilities  
+○ Internet and phone bills  
+○ Stationery and office supplies  
+○ Client meetings and events  
+○ Reimbursements to employees etc  
+Process for Expenses submission and reimbursements:  
+○ Employees submit expense claims  
+○ Managers or Admins review and approve them  
+○ Approved expenses are reimbursed or accounted for  
+○ Helps track and control company spending  
+Quick Navigation Panel in ERPICA includes;  
+ 
+
+--- PAGE 42 ---
+ 
+ 
+a. Dashboard  
+The Expense Management Dashboard in ERPICA provides a complete 
+overview of all employee expenses in one place. It helps Admins and 
+Owners track, review, and manage expenses efficiently.  
+Key features of the dashboard  
+○ Plant Selection  
+ Users can filter expense data by selecting a specific plant to 
+view plant -wise expenses.  
+ 
+○ Expense Summary Cards  
+➢ Total Expenses : Total number of expenses submitted  
+➢ Under Review : Expenses pending approval  
+➢ Claimed : Expenses already claimed or approved  
+➢ Rejected : Expenses that have been declined  
+ 
+○ Amount Overview  
+➢ Total Expense Amount : Total value of all submitted 
+expenses  
+➢ Claimed Amount : Amount already reimbursed or 
+approved  
+➢ Remaining Amount : Balance amount yet to be claimed or 
+processed  
+ 
+○ Search and Filters  
+ Users can search expenses, filter by category, and select a date 
+range to quickly find specific records.  
+ 
+○ Expense List Table  
+ Displays detailed expense information including:  
+➢ Employee name  
+➢ Expense category and subcategory  
+➢ Amount  
+➢ Wallet status (Deducted or Not Deducted)  
+--- PAGE 43 ---
+ 
+ 
+➢ Submission date  
+➢ Approval status  
+➢ Action button to view details  
+ 
+For Owner’s approval:  
+ 
+
+--- PAGE 44 ---
+ 
+ 
+ 
+
+--- PAGE 45 ---
+ 
+ 
+ 
+If the employer does not want to approve the expense for any reason, 
+they can ask for additional details in the “Discussion between Approver 
+and Employee” section.  
+b. Expense Policy  
+It means managing the company expenses that are provided to 
+employees for their travel, stay, or food during site visits or site stays.  
+
+--- PAGE 46 ---
+ 
+ 
+ 
+c. Add Expenses  
+Steps to apply or set the expense for employees:  
+1. Click on Expense Policy  
+2. Select the Plant  
+3. Click on Custom Form Builder  
+4. Fill out all the details about the expense type (project details, expense 
+type, amount limit, location, category, etc.)  
+5. Then submit the form  
+ 
+Owner can add subcategories:  
+
+--- PAGE 47 ---
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 48 ---
+ 
+ 
+ 
+Fill out all the required details in the form, as shown in the picture. This 
+includes selecting the employee, entering the amount, choosing the category, 
+uploading the supporting documents, adding the location, and mentioning the 
+project name.  
+d. Wallet Management  
+Wallet Management shows the remaining amount and pending 
+requests by employees to the Admin/Owner.  
+ 
+
+--- PAGE 49 ---
+ 
+ 
+e. Employee Expense Summary  
+ 
+Employees expenses will be displayed in this format, showing all key fields 
+such as Employee Name, Wallet Balance, Total Expenses, Amount Claimed, 
+Credits, Debits, Activity Summary and View Action.  
+ 
+
+--- PAGE 50 ---
+ 
+ 
+ 
+ 
+If the employer has already added any wallet money or advance payment to 
+an employee’s account, then the approved expenses can be directly deducted 
+from that available wallet balance.  
+
+--- PAGE 51 ---
+ 
+ 
+10. Leave Management  
+Leaves are officially approved days off that employees can take from work 
+with prior permission, as per company policy.  
+Common types of leaves  
+○ Casual Leave (CL) – short -term personal needs  
+○ Sick Leave (SL) – health -related reasons  
+○ Earned or Privilege Leave (EL/PL) – accumulated leave taken 
+later  
+○ Maternity Leave / Paternity Leave  
+○ Compensatory Off – for working on holidays or weekends  
+○ Unpaid Leave (LWP) – when paid leave is exhausted  
+The Admin/Owner will first create the required leave policies based on 
+the needs of different employees or sites. After setting up the policies, 
+the owner can assign the appropriate employees to their respective 
+leave policies.  
+a. Leave Balance  
+Leave balance is the number of leave days an employee still has 
+available to use.  
+ How leave balance works?:  
+ 
+○ Leaves are credited as per company policy (monthly or yearly)  
+○ Leaves taken are deducted from the total  
+○ The remaining days are shown as the leave balance  
+--- PAGE 52 ---
+ 
+ 
+ 
+Example:  
+ If an employee gets 30 casual leaves in a year and uses 5, the leave 
+balance is 25 days.  
+○ Leave balance is auto -calculated  
+○ Employees can view it anytime  
+○ Managers/admin use it to approve or reject leave requests  
+○ Prevents overuse of leaves  
+ 
+b. Leave Requests  
+The Leave Requests section helps employers easily view, track and take 
+action on all employee leave applications in one place.  
+Owner/Admin/Reporting manager can see quick stats like:  
+○ Total Requests  
+○ Pending  
+○ Approved  
+○ Rejected  
+Below that, each leave request is listed with the following fields:  
+
+--- PAGE 53 ---
+ 
+ 
+○ Employee Code  
+○ Email  
+○ Leave Type (for example, Fixed Leaves or Paid Leaves)  
+○ From Date  
+○ To Date  
+○ Status (Pending, Approved or Rejected)  
+○ Actions (View, Approve or Reject)  
+The employer can click on any request to review the leave details, 
+check the employee’s leave balance and take the required action.  
+This section helps maintain transparency, ensures timely approvals and 
+keeps all leave records properly organised for future reference.  
+ 
+
+--- PAGE 54 ---
+ 
+ 
+ 
+c. Leave Policy  
+Leave Policy is a set of company rules that define how, when, and how 
+much leave employees can take. It tells employees what kind of leaves 
+they get and how to use them.  
+What a leave policy usually includes  
+○ Types of leave (paid leave, sick leave, casual leave, fixed leave, 
+etc.)  
+○ Leave count (how many days are allowed)  
+○ Credit cycle (yearly, quarterly, monthly)  
+○ Eligibility (who can take which leave)  
+○ Approval process (manager or HR approval)  
+○ Expiry or carry forward rules  
+○ Whether the policy is active or inactive  
+In ERPICA:  
+○ Paid Leaves: 30 days, credited yearly, no expiry  
+○ Fixed Leaves: 7.5 days, credited quarterly, active  
+○ Admin can activate or deactivate policies  
+
+--- PAGE 55 ---
+ 
+ 
+○ Policies can be applied to specific sites or employees  
+○ Leave policy automates leave calculation  
+○ Ensures fairness and compliance  
+○ Helps avoid confusion and manual errors  
+ 
+
+--- PAGE 56 ---
+ 
+ 
+
+--- PAGE 57 ---
+ 
+ 
+ 
+
+--- PAGE 58 ---
+ 
+ 
+ 
+Owner/Admin can select and assign the applicable leave policy to 
+individual employees based on their role, site, or employment type.  
+11. Task Manager  
+ 
+Task Manager is the place where you can add all important details related to 
+any task. You can specify the task description, select the plant, choose the 
+department, and add relevant tags. This helps keep everything organized and 
+easy to track.  
+ 
+a. Dashboard:  
+ 
+
+--- PAGE 59 ---
+ 
+ 
+To create a workplace:  
+1. Click on Create Workspace  
+2. Enter the Workspace Name  
+3. Add a brief Description  
+4. Submit it  
+ 
+ 
+
+--- PAGE 60 ---
+ 
+ 
+ 
+ 
+
+--- PAGE 61 ---
+ 
+ 
+
+--- PAGE 62 ---
+ 
+ 
+ 
+In Tags, multiple different tags can be added. In Links, you can add any 
+relevant link.  
+ 
+
+--- PAGE 63 ---
+ 
+ 
+Accounts Workspace Projects  
+In the Accounts workspace, all ongoing and completed finance related 
+projects are displayed in one place. This section helps you manage 
+project details, track progress, and monitor team involvement easily.  
+Each project card shows the following fields:  
+○ Project Name  – The title of the project  
+○ Description  – Brief about what the project is for  
+○ Status  – Whether the project is Active or Inactive  
+○ Members  – Number of team members added to that project  
+○ Created  – The date on which the project was created  
+○ Actions  – Options to view, edit, manage members, or deactivate 
+the project  
+This view allows the owner to quickly understand how many projects are 
+running, how many are active, and how many tasks are linked with them. It 
+keeps the entire Accounts department's workflow organized and easy to track  
+ 
+
+--- PAGE 64 ---
+ 
+ 
+Advance Payment (Accounts Workspace)  
+ The Advance Payment project helps the Accounts team manage all payment 
+related tasks in an organized and trackable way. Inside this project, you can 
+see a clear breakdown of every task and its current status.  
+From the top section, Owner can view:  
+○ Total Tasks  
+○ Tasks in Todo  
+○ Tasks In Progress  
+○ Tasks Under Review  
+○ Tasks Completed  
+Below that, the Task Detail board visually displays every task category 
+such as:  
+○ Backlog  
+○ Todo  
+○ In Progress  
+○ Under Review  
+○ Completed  
+Each task card shows details like the task name, tags (for example Payment, 
+Advance), and assigned members. This helps the team check which payments 
+are pending, which are already reviewed, and which have been fully 
+completed.  
+The section also includes filters for quick searching, sorting by priority, tags, 
+due dates, and team members, making it easy to track and manage account -
+--- PAGE 65 ---
+ 
+ 
+related payments efficiently.  
+ 
+You can drag and drop a task from the Backlog column to the To Do column.  
+ 
+
+--- PAGE 66 ---
+ 
+ 
+ 
+This task gives a full snapshot of the Sub task  within the Advance Payment 
+project. It shows the task’s current status, priority level, activity details, and 
+progress.  
+You can instantly see how many subtasks are planned, what’s pending, and 
+what’s been completed. Since everything is currently at zero, the task hasn’t 
+been started yet and is still sitting in the Backlog  with a Medium  priority.  
+The account also highlights key details like:  
+● Description:  Vouchers  
+● Assigned To:  Team member shown in the icon  
+● Created On:  1 December 2025  
+● Due Date:  6 December 2025  
+● Story Points:  2 
+● Tag:  Payment  
+● Project:  Advance Payment  
+This view basically helps you (or your team) track exactly where the task 
+stands and what needs attention next. Super handy when you’re juggling 
+multiple tasks and want everything organized like a pro.  
+
+--- PAGE 67 ---
+ 
+ 
+ 
+12. Payroll  
+Payroll means calculating how much each employee should be paid, 
+subtracting any deductions, and then releasing their salary on time. It also 
+includes keeping records, generating payslips, handling taxes, and making sure 
+all compliance rules are followed.  
+a. Dashboard  
+b. Define Batches  
+In batches, you can divide different types of payrolls based on 
+employment types, for example, contract employees, trainees, new 
+employees, and existing employees.  
+ 
+
+--- PAGE 68 ---
+ 
+ 
+ 
+You can assign, add, or remove any employee as needed from this 
+section.  
+
+--- PAGE 69 ---
+ 
+ 
+ 
+c. Run Payroll  
+d. Payroll Summary  
+e. Allowances  
+
+--- PAGE 70 ---
+ 
+ 
+ 
+This section lets you create and control different types of allowances 
+that are added to an employee’s salary. You can set the allowance 
+code, name, and mapping so the system knows exactly where it 
+belongs in payroll calculations.  
+You also get quick toggles to decide if the allowance is taxable, PF 
+applicable, or ESI applicable. The status column shows whether an 
+allowance is currently active, and the actions menu helps you edit or 
+update it whenever needed.  
+The Create Allowance button at the top helps you add new allowances 
+in a few clicks, keeping things neat and fully customizable.  
+
+--- PAGE 71 ---
+ 
+ 
+ 
+ 
+This screen lets you set up a new allowance that will be added to 
+employee salary structures. You can define everything from the 
+allowance name to how it’s calculated and whether it affects PF, ESI, or 
+PT. 
+Here’s what each part means:  
+
+--- PAGE 72 ---
+ 
+ 
+i. Allowance Code  
+ A short code that identifies the allowance. Example: HRA, TA, 
+SA. 
+ii. Allowance Name  
+ The full name of the allowance like House Rent Allowance or 
+Special Allowance.  
+iii. Description  
+ Optional notes about what this allowance is for.  
+iv. Mapping  
+ Select the internal mapping used for payroll calculations. This 
+helps the system classify the allowance correctly.  
+v. Calculation Type  
+ Choose how the allowance will be calculated such as Fixed 
+Amount or Percentage.  
+vi. Taxable  
+ Decide if this allowance should be included in taxable income.  
+vii. Section  
+ If the allowance falls under a specific tax section, you can enter 
+it here.  
+viii. PF / ESI / PT Applicable  
+ Turn these on if the allowance should be considered while 
+calculating PF, ESI, or Professional Tax.  
+ix. LOP Dependent  
+ Choose whether this allowance should be reduced when an 
+employee has loss of pay.  
+x. Max Limit  
+ Set a maximum allowable amount if needed.  
+xi. Notes  
+ Any additional internal notes for reference.  
+Once all fields are set, hit Create  to save the new allowance.  
+f. Deductions  
+--- PAGE 73 ---
+ 
+ 
+ 
+Deductions are amounts subtracted from an employee’s salary as part 
+of the payroll process. These may include statutory contributions such 
+as Provident Fund, company -specific deductions, or adjustments based 
+on attendance and leave. The Deductions  section in the payroll system 
+allows administrators to easily view, configure, and manage all such 
+salary deductions in one place.  
+Purpose of the Deductions Module  
+The module helps payroll teams:  
+○ Define and manage different types of salary deductions  
+○ Set rules for how each deduction is calculated  
+○ Determine whether a deduction is taxable or non -taxable  
+○ Specify if the deduction should vary based on Loss of Pay  
+○ Activate or deactivate deductions based on organizational needs  
+○ Maintain accuracy and compliance across payroll cycles  
+Key Elements Shown in the Interface  
+I. Deduction Details : Each deduction entry displays important 
+information such as:  
+○ Name of the deduction (e.g., Provident Fund)  
+○ Mapping to the relevant payroll component  
+○ Calculation basis (for example, based on Basic salary)  
+
+--- PAGE 74 ---
+ 
+ 
+○ Taxability, indicating whether the deduction affects taxable 
+income  
+○ LOP Dependency, showing if the deduction changes when salary 
+is reduced due to unpaid leave  
+○ Status, showing whether the deduction is currently active  
+Ii. Create Deduction  
+A dedicated button allows administrators to add new deduction types 
+and configure their rules.  
+Iii. Easy Navigation  
+Pagination at the bottom helps users move through multiple deduction 
+records with ease.  
+g. Settings  
+ 
+The Payroll Settings section lets you define the start and end of the pay 
+period along with the exact day employees get paid. This helps 
+automate salary processing and keeps every cycle smooth and 
+predictable.  
+
+--- PAGE 75 ---
+ 
+ 
+ 
+ 
+The Payslip Settings section lets you customize how your company’s 
+payslips look and what information they display. You can set the 
+company name, upload a logo, and add an address so your payslips 
+look polished and legit. You also get full control over wha t details show 
+up, like LOP, attendance, PF, or ESI.  
+
+--- PAGE 76 ---
+ 
+ 
+ 
+The Email Settings section lets you customize the emails that go out to 
+employees along with their payslips. This is basically where you set the 
+vibe for your payroll communication.  
+Here is what you can do in this section:  
+i.  Send Payslip Email Toggle  
+ You can turn on automatic email sending when payroll is 
+processed. Once enabled, the system will send payslips 
+directly to employees without needing manual action.  
+ii. Email Subject  
+ You can set the subject line for your payslip email. For 
+example:  
+
+--- PAGE 77 ---
+ 
+ 
+ Your Salary Slip for {month} {year}  
+ The curly bracket values update automatically based on 
+the pay cycle.  
+iii. Email Body  
+ This is the main message that employees will receive 
+with their payslip. You can add a custom message and use 
+dynamic variables like employee name, month, year, net 
+salary, and more. The system replaces these variables 
+with real data when emails are sent.  
+iv. Available Variables  
+ A handy list of placeholders you can insert in the subject 
+or message. Examples:  
+○ {employeeName} – Employee’s name  
+○ {month} – Salary month  
+○ {year} – Salary year  
+○ {totalEarnings} – Total amount earned  
+○ {totalDeductions} – Total deductions  
+○ {netSalary} – Final salary amount  
+v. Preview Email  
+ Before sending it to everyone, you can preview how the 
+email will look with sample data.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13.  
+ 
+--- PAGE 78 ---
+ 
+ 
+Run Payroll  
+ 
+ 
+ 
+ 
+ 
