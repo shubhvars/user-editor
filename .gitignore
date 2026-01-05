@@ -42,8 +42,8 @@ extract_pdf.py
 
 uploadComplete.js
 uploadFinal.js
-uploadImages
-uploadToDatabase
+uploadImages.js
+uploadToDatabase.js 
 
 ./data
 

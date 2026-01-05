@@ -155,14 +155,14 @@ const UserManual = () => {
                         <div className="sidebar-header">
                             <h3>📖 ERPICA User Manual</h3>
                         </div>
-                        <div className="sidebar-search">
+                        {/* <div className="sidebar-search">
                             <input
                                 type="text"
                                 placeholder="Search..."
                                 value={searchQuery}
                                 onChange={(e) => setSearchQuery(e.target.value)}
                             />
-                        </div>
+                        </div> */}
                         <div className="sidebar-section">
                             <nav className="sidebar-nav">
                                 {Object.entries(groupedContents).map(([category, items]) => (
@@ -203,7 +203,7 @@ const UserManual = () => {
                             </div>
                         ))}
 
-                        {searchQuery && filteredContents.length === 0 && (
+                        {/* {searchQuery && filteredContents.length === 0 && (
                             <div className="no-results">
                                 <div className="no-results-icon">
                                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#94a3b8" strokeWidth="2">
@@ -214,7 +214,7 @@ const UserManual = () => {
                                 <h3>No results found</h3>
                                 <p>No documentation matches "{searchQuery}"</p>
                             </div>
-                        )}
+                        )} */}
                     </div>
                 </main>
             </div>
